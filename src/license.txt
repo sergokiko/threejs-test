@@ -1,0 +1,11 @@
+Model Information:
+* title:	Comic Shaded Sci-Fi Corridor
+* source:	https://sketchfab.com/3d-models/comic-shaded-sci-fi-corridor-bd115af91b5b4c2eb4f23144f3dbabdf
+* author:	pcaggegi (https://sketchfab.com/pcaggegi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Comic Shaded Sci-Fi Corridor" (https://sketchfab.com/3d-models/comic-shaded-sci-fi-corridor-bd115af91b5b4c2eb4f23144f3dbabdf) by pcaggegi (https://sketchfab.com/pcaggegi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
